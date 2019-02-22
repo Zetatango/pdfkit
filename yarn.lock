@@ -2386,10 +2386,9 @@ flat-cache@^1.2.1:
     rimraf "~2.6.2"
     write "^0.2.1"
 
-fontkit@^1.0.0:
+fontkit@Zetatango/fontkit:
   version "1.7.8"
-  resolved "https://registry.yarnpkg.com/fontkit/-/fontkit-1.7.8.tgz#235ba495e70cd5cab9a3462ee5d32d9fa5f08b69"
-  integrity sha512-4bo/Sp+Ob/cE5f2aCre/N42mHe6hcIWUYmTRgEqLmJyPRX0m0KBl1jflMM70Vh7qZRoh97BcS3JQGrRvK1Ga7Q==
+  resolved "https://codeload.github.com/Zetatango/fontkit/tar.gz/cc74de0191cfbec3210531ad89e0c668aaca9c1e"
   dependencies:
     babel-runtime "^6.11.6"
     brfs "^1.4.0"
@@ -2398,7 +2397,7 @@ fontkit@^1.0.0:
     clone "^1.0.1"
     deep-equal "^1.0.0"
     dfa "^1.0.0"
-    restructure "^0.5.3"
+    restructure Zetatango/restructure
     tiny-inflate "^1.0.2"
     unicode-properties "^1.0.0"
     unicode-trie "^0.3.0"
@@ -4928,10 +4927,9 @@ restore-cursor@^2.0.0:
     onetime "^2.0.0"
     signal-exit "^3.0.2"
 
-restructure@^0.5.3:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/restructure/-/restructure-0.5.4.tgz#f54e7dd563590fb34fd6bf55876109aeccb28de8"
-  integrity sha1-9U591WNZD7NP1r9Vh2EJrsyyjeg=
+restructure@Zetatango/restructure:
+  version "0.5.5"
+  resolved "https://codeload.github.com/Zetatango/restructure/tar.gz/6bae730437d7abdb28ed27c359cc16b7f5013ff6"
   dependencies:
     browserify-optional "^1.0.0"
 
